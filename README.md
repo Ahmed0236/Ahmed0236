@@ -51,8 +51,8 @@
 
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/a26anwar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmed%20Anwar%-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/a26anwar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmed%20Anwar-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:ahmedanwr5295@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ahmedanwar5295@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [Ahmed Anwar](https://github.com/Ahmed0236)
+⭐️ From [Ahmed0236](https://github.com/Ahmed0236)
